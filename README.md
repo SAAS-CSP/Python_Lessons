@@ -1,10 +1,8 @@
 # Python_Lessons 
 
-Introduction to python using specific examples.
+Introduction to python starting with basic foundations.
 
-This is a collection of Python lesson documents.
-
-These documents are in support of additional content.  However, each document introduces only a few concepts.  They start with basic Python foundations and progressively include more advanced content.
+This is a collection of Python concepts and is in constant development. 
 
 Enjoy!
 
